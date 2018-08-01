@@ -1,0 +1,26 @@
+.list-group{
+  border:2px solid orange;
+
+}
+.col-lg-12{
+  display:grid;
+  grid-template-columns: 23.6% 23.6% 23.6% 23.6%;
+  grid-gap:20px;
+  text-align:center
+}
+.image{
+  width:100%;
+  height:275px
+}
+body{
+background-color: brown;
+color:white
+}
+.jumbotron{
+  text-align: center;
+  background: none
+}
+a{
+  color:white;
+  font-size:1.5em
+}
